@@ -15,7 +15,7 @@ This project provides a full-stack user authentication system using the MERN sta
 - **Frontend:**
   - React.js
   - React Router
-  - Axios (for HTTP requests)
+  - JsON.stringify (for HTTP requests)
 
 - **Backend:**
   - Node.js
